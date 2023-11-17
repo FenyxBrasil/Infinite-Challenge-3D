@@ -41,5 +41,8 @@ https://play.unity.com/u/FenyxBrasil
 Github
 https://github.com/FenyxBrasil
 
+Linkedin
+https://www.linkedin.com/in/alex-alves-br/
+
 Steam Community
 https://steamcommunity.com/profiles/76561198052675558
